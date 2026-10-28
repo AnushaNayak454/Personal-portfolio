@@ -1,6 +1,6 @@
 
 import "../styles/About.css";
-import profilePhoto from "../assets/anu.png";
+import profilePhoto from "../assets/Anu.png";
 
 function About() {
   return (
