@@ -24,6 +24,17 @@
   border-radius: 8px;
 }
 
+.resume-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.resume-fallback {
+  padding: 20px;
+  text-align: center;
+}
+
 .download-button:hover {
   background: #6b21a8;
 }
