@@ -1,5 +1,6 @@
 import "../styles/Hero.css";
 import myPhoto from "../assets/anusha.jpeg";
+import { Link } from "react-router-dom";
 
 function Hero() {
     return (
@@ -15,13 +16,13 @@ function Hero() {
                     I'm a Passionate and dedicated Computer Science student with a strong interest in web development and software engineering. I enjoy creating innovative solutions and continuously learning new technologies to enhance my skills.
                 </p>
                 <div className="project-view">
-                    <a href="#projects" className="hero-button">
+                    <Link to="/projects" className="hero-button">
                         View Projects
-                    </a>
+                    </Link>
 
-                    <a href="#contact" className="contact-me">
+                    <Link to="/contact" className="contact-me">
                         Contact Me
-                    </a>
+                    </Link>
                 </div>
             </div>
 

@@ -14,7 +14,7 @@ function Contact() {
           <span>📧</span>
           <div>
             <h3>Email</h3>
-            <a href="mailto:yourmail@example.com">
+            <a href="mailto:anushanayak454@gmail.com">
               anushanayak454@gmail.com
             </a>
           </div>
@@ -41,7 +41,7 @@ function Contact() {
           <div>
             <h3>GitHub</h3>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/AnushaNayak454"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -55,7 +55,7 @@ function Contact() {
           <div>
             <h3>LinkedIn</h3>
             <a
-              href="https://www.linkedin.com/in/yourusername/"
+              href="https://www.linkedin.com/in/anusha-s-6258542b0"
               target="_blank"
               rel="noopener noreferrer"
             >
