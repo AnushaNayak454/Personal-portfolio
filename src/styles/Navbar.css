@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  line-style: none;
+  background-color: #033b57;
+  
+}
+
+.nav-links {
+  display: flex;
+  gap: 25px;
+  list-style:none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #f7f7f7;
+}
+
+.nav-links a:hover {
+  color: #7c3aed;
+}
+.resume-link{
+    text-decoration: none;
+    color: #f7f7f7;
+    background-color: #7c3aed;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.resume-button {
+  background-color: #7c3aed;
+  color: #f7f7f7;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+
+}
