@@ -1,4 +1,13 @@
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    padding: 20px;
+  }
 
+  .about-photo {
+    width: min(100%, 240px);
+  }
+}
 .about-page {
   min-height: 100vh;
   padding: 60px 20px;

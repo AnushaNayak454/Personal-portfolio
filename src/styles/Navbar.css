@@ -1,3 +1,17 @@
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px 12px;
+  }
+
+  .navbar ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+}
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -7,7 +21,6 @@
   background-color: #033b57;
   
 }
-
 .nav-links {
   display: flex;
   gap: 25px;

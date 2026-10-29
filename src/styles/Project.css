@@ -1,4 +1,12 @@
+@media (max-width: 768px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
 
+  .project-card {
+    width: 100%;
+  }
+}
 .projects-page {
   min-height: 100vh;
   padding: 60px 8%;
